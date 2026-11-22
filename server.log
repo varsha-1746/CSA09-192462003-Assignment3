@@ -1,0 +1,4 @@
+INFO: Server started on port 8080
+ERROR: Database connection pool exhausted
+ERROR: CORRUPT_PACKET_0x99
+ERROR: Disk latency threshold exceeded
